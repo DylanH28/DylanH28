@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DylanH28
-- 👀 I’m interested in web development and software engineering.
-- 🌱 I’m currently learning HTML, CSS, Javascript, and Ruby.
-- 📫 Feel free to reach out to me at dylanhill1228@gmail.com
+- 👀 I’m interested in computer science and web development.
+- 🌱 I’m currently attending WGU to get my bachelor's degree in computer science.
+- 📫 Feel free to reach out to me at cdylanhill@gmail.com
 
 <!---
 DylanH28/DylanH28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
